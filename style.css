@@ -1,0 +1,43 @@
+.twitter-container{
+    position: fixed;
+}
+.twitter-container{
+text-decoration: none;
+position: fixed;
+bottom: 70px;
+height: 30px;
+display: block;
+right: 30px;
+background-color: green;
+width: 60px;
+height: 60px;
+border-radius: 100%;
+
+}
+.twitter-container i{
+    font-size: 2.0em;
+    color: red;
+    padding: 15px;
+    
+}
+.whatsapp{
+    position: fixed;
+}
+.whatsapp{
+    text-decoration: none;
+    position: fixed;
+    bottom: 150px;
+    height: 30px;
+    display: block;
+    right: 40px;
+    background-color: green;
+    width: 60px;
+    height: 70px;
+    border-radius: 100%;
+
+}
+.whatsapp i{
+    font-size: 2.2em;
+    color: white;
+    padding: 15px;
+}
